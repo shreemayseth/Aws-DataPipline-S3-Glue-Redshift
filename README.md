@@ -15,13 +15,13 @@
 ## Creating Redshift Cluster and Table in Redshift
 ![image](https://github.com/shreemayseth/Aws-DataPipline-S3-Glue-Redshift/assets/39726093/8d43ef59-a572-4532-aa0c-2ee516e34432)
 
-## Creating a connection between Gluw and Redshift
+## Creating a connection between Glue and Redshift
 ![image](https://github.com/shreemayseth/Aws-DataPipline-S3-Glue-Redshift/assets/39726093/ecc83755-a8aa-46a8-8edf-f972511dd5b8)
 
 ## Creating a VPC endpoint
 ![image](https://github.com/shreemayseth/Aws-DataPipline-S3-Glue-Redshift/assets/39726093/048d1252-9cfd-452d-a09f-617f0cff76de)
 
-## Cretaing a Glue Job and Running
+## Creating a Glue Job and Running it 
 ![image](https://github.com/shreemayseth/Aws-DataPipline-S3-Glue-Redshift/assets/39726093/ab337d93-8a80-4e82-8eff-94ccbaa6eb48)
 
 ![image](https://github.com/shreemayseth/Aws-DataPipline-S3-Glue-Redshift/assets/39726093/ed4043fd-955c-4ed7-b054-bf8b55da9b41)
